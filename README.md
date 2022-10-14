@@ -40,3 +40,24 @@ data-512-homework_2/
     |- wp_countries-no_match.txt
     |- wp_politicians_by_country.csv
 ```
+
+# Jupyter Notebook
+HCDS-HW2-Shubha.ipynb : Contains the code used for the analysis
+
+# Input files ( data folder)
+politicians_by_country_SEPT.2022.csv : The Wikipedia Category Politicians by nationality was crawled to generate a list of Wikipedia article pages about politicians from a wide range of countries.
+population_by_country_2022.csv : This dataset is drawn from the world population data sheet published by the Population Reference Bureau.
+
+# Output files ( output folder)
+wp_countries-no_match.txt : all countries for which there are no matches and output a list of those countries, with each country on a separate line
+wp_politicians_by_country.csv : Consolidating the remaining data as instructed into a single CSV file
+
+# Intermediate files ( log folder)
+
+no_page_info_articles.txt: This log maintains the list of article titles for whom the page info was not available.
+articles_missing_score : The log maintains the articles for which ORES scores was not retreivable
+
+
+#Issues/ Special considerations
+
+
