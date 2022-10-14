@@ -60,4 +60,12 @@ articles_missing_score : The log maintains the articles for which ORES scores wa
 
 # Issues/ Special considerations
 
+1. The input data file for politicians contains few duplicates. All absolute duplicates are removed from the data, however for per-capita estimates, duplicates at the article name level are taken into consideration.
+2. Countries are mapped to the areas that are nearest to them and lower on the hierarchy of regions after regions with cumulative population numbers are excluded.
+3. There are not many nations with a population of 0. This may be because the figure is rounded to the nearest decimal place and expressed in millions. These nations are excluded from Step 4's calculation of the article-per-capita because their denominator 3 values of 0 result in infinity.
 
+
+
+
+## Author
+- [Shubha Changappa Palachanda](https://github.com/shubha8196)
