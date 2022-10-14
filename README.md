@@ -67,6 +67,16 @@ articles_missing_score : The log maintains the articles for which ORES scores wa
 
 # Research Implication
 
+What biases did you expect to find in the data (before you started working with it), and why?
+
+I had initially anticipated a strong bias in favor of wealthy nations in high-quality papers, but this was not the case. This exercise involves selection bias because many nations, including important industrialized nations like the United States, Canada, etc., have missing data. I also anticipated that Southern Asia would have a lower article per capita value because to its vast population. The idea that articles in their native languages would be more numerous led me to believe that the quantity of articles in Asian and African countries would be lower per capita.
+
+What might your results suggest about (English) Wikipedia as a data source?
+
+
+
+How might a researcher supplement or transform this dataset to potentially correct for the limitations/biases you observed?
+
 
 
 ## Author
