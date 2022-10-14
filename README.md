@@ -65,6 +65,8 @@ articles_missing_score : The log maintains the articles for which ORES scores wa
 3. There are not many nations with a population of 0. This may be because the figure is rounded to the nearest decimal place and expressed in millions. These nations are excluded from Step 4's calculation of the article-per-capita because their denominator 3 values of 0 result in infinity.
 
 
+# Research Implication
+
 
 
 ## Author
