@@ -68,8 +68,7 @@ articles_missing_score : The log maintains the articles for which ORES scores wa
 # Research Implication
 
 Reflectiion:
-
-
+Understanding the biases in the source data can help you spot any biases in the model and prevent incorrect interpretation of the results. We are aware that when dealing with material obtained from the internet, there is always some type of bias. Several queries regarding the articles per capita were raised during the post-hoc analysis, including whether it was a trustworthy measure of coverage and whether it was related to ORES scores. In the course of the post-hoc study, few biases in the data are visible. The per capita values of the articles seem to be very dependent on the population of the nation/region. For instance, the majority of the nations/regions with the highest coverage also have the lowest populations, and vice versa. Non-native English speakers had less high-quality articles than native speakers, which suggests a linguistic and cultural prejudice.All of these observations, together with a few other data discrepancies, led me to overall doubt the accuracy of the per capita computation carried out
 
 
 What biases did you expect to find in the data (before you started working with it), and why?
